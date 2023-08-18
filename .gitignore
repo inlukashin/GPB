@@ -1,1 +1,3 @@
-**/data/
+data_with_dadata.csv
+train_data.zip
+test_GPB_random_forest.joblib
